@@ -1,0 +1,44 @@
+.region-container {
+    background-color: rgb(236, 236, 236);
+    padding: 10px;
+    font-family: 'Questrial', sans-serif;
+    margin-bottom: 10px;
+}
+
+.country-name {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.show-statistics-container {
+    background-color: #f2f2f2;
+    margin: 10px 0px;
+    display: flex;
+    height: 30px;
+    line-height: 30px;
+}
+
+.show-statistics-container button {
+    border: none;
+    background-color: transparent;
+}
+
+.show-statistics-container p {
+    margin: 0px 10px;
+}
+
+.select-city-container {
+    background-color: #f2f2f2;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.select-city-container button {
+    border: none;
+    width: 100px;
+    margin-top: 10px;
+}
+
+.select-city-container button:hover {
+    background-color: #adadad;
+}

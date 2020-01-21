@@ -1,0 +1,29 @@
+.report-item-container {
+    background-color: rgb(182, 182, 182);
+    margin: 10px 0px;
+    padding: 10px;
+}
+
+.date-p {
+    display: inline;
+}
+
+.date {
+    width: 100px;
+    margin-left: 10px;
+}
+
+.item {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.add-button {
+    border: none;
+    margin-top: 10px;
+    width: 70px;
+}
+
+.add-button:hover {
+    background-color: #838383;
+}

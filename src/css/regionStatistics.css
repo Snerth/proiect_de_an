@@ -1,0 +1,23 @@
+.region-statistics-container {
+    background-color: rgb(194, 194, 194);
+    padding: 10px;
+}
+
+.region-statistics-container-p {
+    font-weight: bold;
+}
+
+.sales-container {
+    background-color: #e7e7e7;
+    margin: 10px 0px;
+    padding: 10px;
+}
+
+.sales-container p {
+    margin-bottom: 5px;
+}
+
+.sales-container select {
+    margin-bottom: 5px;
+    background-color: white;
+}

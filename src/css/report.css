@@ -1,0 +1,31 @@
+.report-container {
+    margin: 30px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.report-header {
+    font-weight: bold;
+    font-family: 'Questrial', sans-serif;
+    margin-bottom: 10px;
+}
+
+.report-body {
+    background-color: #f4f4f4;
+    font-family: 'Questrial', sans-serif;
+    padding: 10px;
+}
+
+.add-item {
+    display: inline;
+    margin-right: 10px;
+}
+
+.add {
+    border: none;
+}
+
+.add:hover {
+    background-color: #a3a3a3;
+}
